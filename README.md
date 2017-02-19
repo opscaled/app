@@ -1,2 +1,2 @@
-# app
-example app to demo a cd pipeline
+# REST Microservice
+example app to demo a microservice deployment
